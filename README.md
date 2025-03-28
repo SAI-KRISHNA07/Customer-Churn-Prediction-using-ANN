@@ -7,6 +7,8 @@
 ## Project Overview  
 This project predicts **customer churn** for a sample bank using a deep learning model built with TensorFlow/Keras. The model analyzes customer attributes (such as credit score, age, and balance) and provides a **churn probability score**.
 
+**Live Demo:** [Streamlit App](https://your-streamlit-app-url)  
+
 ### **The project includes:**  
 ✔️ A **trained neural network** for prediction  
 ✔️ **Data preprocessing** using encoding and scaling  
